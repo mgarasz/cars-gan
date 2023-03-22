@@ -1,0 +1,1 @@
+A Simple GAN trained on Stanford cars dataset. Purely for educational purposes as the model doesn't produce convincing images. Next iteration will accept either image or text prompts to specify what aesthetic cues to incorporate into the image. 
